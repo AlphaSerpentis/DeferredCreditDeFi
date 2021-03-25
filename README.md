@@ -11,4 +11,4 @@ This is a proof-of-concept and not guaranteed to work UNLESS said otherwise. Sec
 # Reach Out to Me
 
 Discord: AlphaSerpentis#3203
-Twitter: https://twitter.com/AlphaSerpentis_
+Twitter: [@AlphaSerpentis_](https://twitter.com/AlphaSerpentis_)
